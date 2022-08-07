@@ -9,3 +9,9 @@ not working out we can always change the schema later.
 ###Python
 
 ###SQL
+
+###Data Engineering Online Courses
+
+  1. http://learndataengineering.com/
+
+###Data Modeling
