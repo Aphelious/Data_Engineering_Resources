@@ -12,6 +12,6 @@ not working out we can always change the schema later.
 
 ###Data Engineering Online Courses
 
-  1. http://learndataengineering.com/
+  1. http://learndataengineering.com/ - Online Data Engineeing academy created by Andreas Kretz
 
 ###Data Modeling
