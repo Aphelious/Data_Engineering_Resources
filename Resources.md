@@ -5,6 +5,8 @@ events, tutorials, etc. are useful. I'd like to try organizing the resources bas
 not working out we can always change the schema later. 
 
 ###Data Structures and Algorithms
+  
+  1. https://visualgo.net/en - Visualization-based algorithm lessons
 
 ###Python
 
