@@ -15,6 +15,11 @@ not working out we can always change the schema later.
 ###Data Engineering Online Courses
 
   1. http://learndataengineering.com/ - Online Data Engineeing academy created by Andreas Kretz
-  2. https://trendytech.in/ Big data online course created by Sumit Mittal
+  2. https://trendytech.in/ - Big data online course created by Sumit Mittal
 
 ###Data Modeling
+
+###Git
+
+  1. http://justinhileman.info/article/git-pretty/full/ - Git troubleshooting flowchart
+  2. https://ohshitgit.com/ - Another Git troubleshooting resource
