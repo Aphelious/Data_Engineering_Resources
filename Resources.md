@@ -23,3 +23,4 @@ not working out we can always change the schema later.
 
   1. http://justinhileman.info/article/git-pretty/full/ - Git troubleshooting flowchart
   2. https://ohshitgit.com/ - Another Git troubleshooting resource
+  3. https://www.conventionalcommits.org/en/v1.0.0/ - Git commit best practices
