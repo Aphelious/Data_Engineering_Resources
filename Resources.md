@@ -4,6 +4,8 @@ Here we can organize all our resources for quick recall. Any links, book titles,
 events, tutorials, etc. are useful. I'd like to try organizing the resources based on topic first, then if it's
 not working out we can always change the schema later. 
 
+---
+
 ### Data Structures and Algorithms
   
   1. https://visualgo.net/en - Visualization-based algorithm lessons
