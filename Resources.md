@@ -1,25 +1,30 @@
-#Data Engineering Resources
+# Data Engineering Resources
 
 Here we can organize all our resources for quick recall. Any links, book titles, git repositories, online courses, 
 events, tutorials, etc. are useful. I'd like to try organizing the resources based on topic first, then if it's
 not working out we can always change the schema later. 
 
-###Data Structures and Algorithms
+### Data Structures and Algorithms
   
   1. https://visualgo.net/en - Visualization-based algorithm lessons
 
-###Python
+### Python
 
-###SQL
+### SQL
 
-###Data Engineering Online Courses
+### Data Engineering Online Courses
 
   1. http://learndataengineering.com/ - Online Data Engineeing academy created by Andreas Kretz
   2. https://trendytech.in/ - Big data online course created by Sumit Mittal
 
-###Data Modeling
+### Data Engineering Books
+  
+  1. https://dataintensive.net/buy.html - Designing Data Intensive Applications by Martin Kleppmann
 
-###Git
+### Data Modeling
+
+
+### Git
 
   1. http://justinhileman.info/article/git-pretty/full/ - Git troubleshooting flowchart
   2. https://ohshitgit.com/ - Another Git troubleshooting resource
