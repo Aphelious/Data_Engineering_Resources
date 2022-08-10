@@ -23,6 +23,7 @@ not working out we can always change the schema later.
 
 ### Data Modeling
 
+  1. https://www.udemy.com/course/mastering-data-modeling-fundamentals - Mastering Data Modeling Fundamentals, Udemy course by Alan Simon
 
 ### Git
 
